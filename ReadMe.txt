@@ -1,4 +1,1 @@
-hi
-bye
-tata
-See you
+TATA
